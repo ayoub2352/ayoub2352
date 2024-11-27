@@ -12,7 +12,7 @@
 
 - 📫 **How to reach me:**  
   - Email: [boulmeghrasayoub@gmail.com](mailto:boulmeghrasayoub@gmail.com)  
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ayoub-boulmeghras-444567218/)  
+  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayoub-boulmeghras-444567218/)  
 
 - 😄 **Pronouns:** He/Him  
 
