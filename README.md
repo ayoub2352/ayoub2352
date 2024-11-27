@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayoub (@ayoub2352)  
+# 👋 Hi, I’m Ayoub 
 
 - 👀 **I’m interested in:**  
   Data Science and Machine Learning.  
@@ -38,8 +38,6 @@
   - Email: [boulmeghrasayoub@gmail.com](mailto:boulmeghrasayoub@gmail.com)  
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayoub-boulmeghras-444567218/)  
 
-- ⚡ **Fun fact:**  
-  I’m an HR member of my university’s IT Club and actively provide IT training sessions.  
 
 <!---
 ayoub2352/ayoub2352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
