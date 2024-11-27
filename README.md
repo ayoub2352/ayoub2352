@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ayoub (@ayoub2352)  
 
 - 👀 **I’m interested in:**  
-  Data Science, Machine Learning, and Full-Stack Development.  
+  Data Science and Machine Learning.  
 
 - 💻 **Technical Expertise:**  
 
@@ -37,8 +37,6 @@
 - 📫 **How to reach me:**  
   - Email: [boulmeghrasayoub@gmail.com](mailto:boulmeghrasayoub@gmail.com)  
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayoub-boulmeghras-444567218/)  
-
-- 😄 **Pronouns:** He/Him  
 
 - ⚡ **Fun fact:**  
   I’m an HR member of my university’s IT Club and actively provide IT training sessions.  
