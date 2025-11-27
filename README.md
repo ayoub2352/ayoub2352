@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayoub 
 
-- 👀 **I’m interested in:**  
+- **I’m interested in:**  
   Data Science and Machine Learning.  
 
 - 💻 **Technical Expertise:**  
