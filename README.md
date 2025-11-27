@@ -34,9 +34,7 @@
 - ✔ **I’m looking to collaborate on:**  
   Machine learning projects, especially involving neural networks or full-stack data science solutions.  
 
-- 📫 **How to reach me:**  
-  - Email: [boulmeghrasayoub@gmail.com](mailto:boulmeghrasayoub@gmail.com)  
-  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ayoub-boulmeghras-444567218/)  
+
 
 
 <!---
